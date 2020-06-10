@@ -1,0 +1,18 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "titulo": "Bola",
+      "descricao": "Bola de Futebol",
+      "preco": 10,
+      "imageUrl": "https://static-lembrancachique.plataformaneo.com.br/produto/multifotos/hd/20190204154147_5879994121_DZ.png"
+    },
+    {
+      "id": 2,
+      "titulo": "Raquete ",
+      "descricao": "Raquete Profissional",
+      "preco": 15,
+      "imageUrl": "https://static.prospin.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/w/r/wrt3056-raquete-de-tenis-wilson-us-open-2019-azul-e-amarela.jpg"
+    }
+  ]
+}

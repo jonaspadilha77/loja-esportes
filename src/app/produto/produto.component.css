@@ -1,0 +1,23 @@
+.card p {
+    margin-bottom: 0;
+}
+
+.card h5 {
+    line-height: 0;
+}
+
+.card p:last-child {
+    margin-bottom: 5px;
+}
+
+.card-body {
+    background: #f9f4ed;
+}
+
+.card-text.price {
+    font-weight: 700;
+}
+
+.card-img-top {
+    width: 150px;
+}

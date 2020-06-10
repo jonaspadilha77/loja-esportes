@@ -1,10 +1,20 @@
-# TreinamentoAngular
+# Loja de Esportes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+This server was createed consuming the json-server stuff. More information about it: [JSON Server](https://www.npmjs.com/package/json-server)
+
+Step to run this server
+
+npm run mock:server
+
+and another tab on terminal:
+
+npm run mock:server
+
+Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 

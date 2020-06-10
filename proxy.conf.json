@@ -1,0 +1,7 @@
+{
+    "/produtos": {
+        "target": "http://localhost:3000/produtos",
+        "secure": false,
+        "pathRewrite": { "^/produtos": "" }
+    }
+}
